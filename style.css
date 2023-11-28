@@ -1,0 +1,30 @@
+#np_logo{
+    height: 80px;
+    position: fixed;
+    top: 18px; left: 135px;
+}
+#yt_logo{
+    height: 180px;
+    position: fixed;
+    bottom: 645px; right: 70px;
+}
+#h1{
+    text-align: center;
+    position: relative;
+    top: 175px;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+#h2{
+    text-align: center;
+    position: relative;
+    top: 175px;
+    font-family: 'Manrope', sans-serif;
+
+}
+#nirmal_patel{
+    height: 200px;
+    position: fixed;
+    top: 350px; left: 710px;
+}
